@@ -1,11 +1,11 @@
 # tcp
 driver tcp udp socket http mqtt ftp
 
-#hardware 
+# hardware 
 stm32f767igt6
 LAN8720
 
-#software
+# software
 cube mx
 freertos
 lwip
