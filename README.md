@@ -2,7 +2,7 @@
 - driver tcp udp socket http mqtt ftp
 
 # hardware 
-- stm32f767igt6
+- stm32h750vbt6
 - LAN8720
 
 # software
